@@ -22,7 +22,7 @@ Trabalho para simplificar, automatizar e dar clareza aos números.
 
 #### 📬 Contato:
 📎 LinkedIn: linkedin.com/in/silaspmartins <br>
- 📧 E-mail: silaspmartins@gmail.com
+ 📧 E-mail: silaspmartins@gmail.com | silaspm_silas@hotmail.com
 
 </div>
 
