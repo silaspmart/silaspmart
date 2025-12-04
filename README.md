@@ -68,7 +68,7 @@ Desenvolver competências sólidas em **desenvolvimento de software e dados**, i
 ## 📬 Contato
 
 - 🔗 **LinkedIn:** https://linkedin.com/in/silaspmartins  
-- 📧 **E-mail:** silaspmartins@gmail.com  
-- 📧 **Backup:** silaspm_silas@hotmail.com  
+- 📧 **E-mail:** silaspm_silas@hotmail.com  
+- 📧 **Backup:** silaspmartins@gmail.com
 
 ---
